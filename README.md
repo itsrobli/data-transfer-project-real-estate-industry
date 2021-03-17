@@ -9,8 +9,8 @@ Let's run this like an open source project and see what happens.
 # Proposal
 
 1.	Define a common schema / or data exchange format that will evolve over time. Something like this used in other industries 
+  - https://github.com/google/data-transfer-project - an initiative setup between the big tech companies to incrase data portability (\*cough\* GDPR)
   - https://www.hl7.org/implement/standards/.
-  - https://datatransferproject.dev - an initiative setup between the big tech companies to incrase data portability (\*cough\* GDPR)
 
 2.	Share scripts that convert from our system’s schema to that common schema and back.
 
