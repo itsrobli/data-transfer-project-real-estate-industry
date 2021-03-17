@@ -1,6 +1,6 @@
 # Background and goals
 
-In the real estate industry, we exchange a lot of data with each other (due to all the JVs). I sadly watch a bunch of finance people translating each other’s spreadsheet into their home systems using the worst tools that exist (VLOOKUP + Copy and Paste + typing). This is every month of their lives.
+In the real estate industry, we exchange a lot of data with each other (due to all the JVs). I sadly watch a bunch of finance people translating each other’s spreadsheets into the correct format (schema) for their home systems using the worst tools that exist (VLOOKUP + Copy and Paste + typing). This is every month of their lives.
 
 Maybe we can tackle this from an engineering level up? Can we define an interchange format and process? And share the tools (scripts) to do these tasks?
 
@@ -8,7 +8,9 @@ Let's run this like an open source project and see what happens.
 
 # Proposal
 
-1.	Define a common schema / or data exchange format that will evolve over time. Something like this used in other industries https://www.hl7.org/implement/standards/.
+1.	Define a common schema / or data exchange format that will evolve over time. Something like this used in other industries 
+  - https://www.hl7.org/implement/standards/.
+  - https://datatransferproject.dev - an initiative setup between the big tech companies to incrase data portability (\*cough\* GDPR)
 
 2.	Share scripts that convert from our system’s schema to that common schema and back.
 
