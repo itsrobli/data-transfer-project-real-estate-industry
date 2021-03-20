@@ -1,5 +1,20 @@
 # Data Transfer Project - Real Estate Industry (DTP-REI)
 
+- [Data Transfer Project - Real Estate Industry (DTP-REI)](#data-transfer-project---real-estate-industry-dtp-rei)
+  - [Overview](#overview)
+  - [Current state](#current-state)
+- [Background](#background)
+  - [Background to the problem](#background-to-the-problem)
+  - [Motivations and goals](#motivations-and-goals)
+- [Architecture](#architecture)
+  - [System components](#system-components)
+    - [Data Models](#data-models)
+    - [Adapters](#adapters)
+      - [Data Adapters](#data-adapters)
+      - [Authentication Adapters](#authentication-adapters)
+    - [Task Management - the plumbing](#task-management---the-plumbing)
+  - [System deployment](#system-deployment)
+
 ## Overview
 
 The goal of this project is to make it really easy and quick to transfer data between participants in the real estate investment management industry.
