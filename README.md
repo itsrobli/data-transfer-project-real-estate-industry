@@ -1,4 +1,6 @@
-# Overview
+# Data Transfer Project - Real Estate Industry (DTP-REI)
+
+## Overview
 
 The goal of this project is to make it really easy and quick to transfer data between participants in the real estate investment management industry.
 
@@ -6,7 +8,7 @@ We believe the solution is to establish industry standard protocols between data
 
 The framework and ideas of this Project are heavily borrowed from the original [Data Transfer Project](https://datatransferproject.dev). As suggested by the naming of this project, our approach is to extend these ideas and create the implementation as it applies to the real estate industry.
 
-# Current state
+## Current state
 
 This project is just starting. Please register your interest in the [discussion forum](https://github.com/itsrobli/data-transfer-project-real-estate-industry/discussions/2).
 
