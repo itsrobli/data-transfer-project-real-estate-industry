@@ -41,7 +41,7 @@ Given everyone has their own systems and processes, there is work on both ends o
 
 - **Sender of data**: The Sender of the data must process it into the right data shape and reporting format for the receipient (it's common a PDF management report and some Excel tables is provided). This deliverable is often different to the way the sender reports the same information internally. In addition, each receipient will specify their own requirements which are often different from other receipients - this compounds the amount of work for the Sender. 
 
-- **Receipient**: The receipient of this data often must translate the information into what their home systems will understand because this data will feed into various other reporting and analytics requirements.
+- **Receipient**: The receipient of this data often must translate the information into what their home systems will understand because this data will feed into various other reporting and analytics requirements. The logical question is, didn't the Sender to this work? Yes, if only the world was so perfect!
 
 Typically every month, these processes are done manually by an army of finance people across the industry who spend days and weeks translating each other’s spreadsheets into their home system.
 
